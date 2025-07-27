@@ -64,12 +64,6 @@ A full-stack web application built with React frontend and AWS backend services.
 3. Configure CloudFront distribution
 4. Invalidate CloudFront cache
 
-## Security Notes
-
-- Client IDs and public URLs are included in the code as they are meant to be public
-- No sensitive credentials or secrets are stored in this repository
-- AWS credentials should be configured locally using AWS CLI
-
 ## License
 
 This project is open source and available under the [MIT License](LICENSE). 
