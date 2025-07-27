@@ -64,6 +64,4 @@ A full-stack web application built with React frontend and AWS backend services.
 3. Configure CloudFront distribution
 4. Invalidate CloudFront cache
 
-## License
-
-This project is open source and available under the [MIT License](LICENSE). 
+ 
